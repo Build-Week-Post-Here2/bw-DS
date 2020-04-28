@@ -1,10 +1,15 @@
 
+Post Here helps you find the best place to share on Reddit. The user enters their
+post and Post Here finds the subreddit that is most appropriate for that post.
+
+
 **TO DO:**
 
 1. Data:
 
-- Find data sources -> ETL  
--
+- [X] Find data sources -> ETL  
+      https://www.storybench.org/how-to-scrape-reddit-with-python/
+
 
 2. Analysis:
 
@@ -25,7 +30,6 @@
 
 - baseline
 - evaluating models
-- 
 
 
 **4/25/2020**
@@ -34,4 +38,12 @@
 - git init
 - conda env 'reddit' with python 3.6
 - Installed PRAW - Reddit API :: https://praw.readthedocs.io/en/v2.1.21/
+
+**4/26/2020**
+
+- Data sources explored :: nb finding_data
+
+**4/27/2020**
+
+- Baseline model
 -
